@@ -30,10 +30,11 @@ namespace Stopwatch
                 System.Environment.Exit(0);
 
             PreStart(time * multiplier);
-            
+
         }
 
-        static void PreStart(int time) {
+        static void PreStart(int time)
+        {
             Console.Clear();
             Console.WriteLine("Ready...");
             Thread.Sleep(1000);
@@ -46,10 +47,10 @@ namespace Stopwatch
         }
         static void Start(int time)
         {
-            
+
             int currentTime = 0;
 
-            while(currentTime != time)
+            while (currentTime != time)
             {
                 Console.Clear();
                 currentTime++;
