@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OMnomooE7ZZVwPsXsspz+Qz8qwldaI4bXR5W1w+3X59Lz1crOlT65zjCKt0ix8q1qil2ATGUQ6GWxEK/4zVEEw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Stopwatch\\Stopwatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patrick.strogueia\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\patrick.strogueia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\patrick.strogueia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\patrick.strogueia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
